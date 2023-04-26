@@ -3,9 +3,9 @@ package flat_test
 import (
 	"encoding/json"
 	"errors"
-	"flat"
 	"testing"
 
+	"github.com/millerhederi/flat"
 	"github.com/stretchr/testify/assert"
 )
 
