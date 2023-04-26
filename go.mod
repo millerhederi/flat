@@ -1,4 +1,4 @@
-module flat
+module github.com/millerhederi/flat
 
 go 1.19
 
